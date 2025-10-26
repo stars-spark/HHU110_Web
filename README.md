@@ -117,7 +117,7 @@ frontend/src/views/Present.vue
 ```vue
 <template>
   <section>
-    <h2>看今朝</h2>
+    <h2>且看今朝</h2>
     <p>这里放你要展示的内容。</p>
   </section>
 </template>
@@ -140,7 +140,7 @@ frontend/src/App.vue
 ```
 
 ```html
-<router-link to="/present">看今朝</router-link>
+<router-link to="/present">且看今朝</router-link>
 ```
 
 刷新页面就能点进新页面。
